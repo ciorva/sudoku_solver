@@ -1,7 +1,8 @@
 #sudoku_solver
-A simple program that solve Sudoku through linear programming
+
+A simple program that solve Sudoku through linear programming.
 Author: Matteo Tonelli 
-matteo.tonelli@protonmail.com
+Mail: matteo.tonelli@protonmail.com
 
 ##Dependencies
 
